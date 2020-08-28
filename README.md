@@ -1,5 +1,5 @@
 # twitter-analysis
-Analysis of a tweet to find the most common words in the replies ans quotes
+Analysis of a tweet to find the most common words in the replies and quotes
 
 
 Tweet source : https://twitter.com/cowrywise/status/1298642550287478785
